@@ -29,7 +29,7 @@ module.exports = {
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || '',
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || '',
   RENDER_NAME: process.env.RENDER_NAME || '',
-  RENDER_API: process.env.RENDER_API || '',
+  RENDER_API: process.env.RENDER_API || 'rnd_FFMFERYcrBTYULjxzyCLSQAAcGHN',
   KOYEB_APP_NAME: process.env.KOYEB_APP_NAME || 'abhiLoki',
   KOYEB_API_KEY: process.env.KOYEB_API_KEY || 'rdhmh9sja4bxep5wxf7e9y7q4my251ptcqmvrwc78698lbxp0uvm9gphsl0bpabn',
   ELEVENLABS_API_KEY: process.env.ELEVENLABS_API_KEY || '',
