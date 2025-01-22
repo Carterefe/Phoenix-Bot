@@ -28,7 +28,7 @@ module.exports = {
   GOODBYE_MSG: process.env.GOODBYE_MSG || '👋 GoodBye *@user* From *@gname*\n*Total Members:* @count @pp',
   HEROKU_APP_NAME: process.env.HEROKU_APP_NAME || '',
   HEROKU_API_KEY: process.env.HEROKU_API_KEY || '',
-  RENDER_NAME: process.env.RENDER_NAME || '',
+  RENDER_NAME: process.env.RENDER_NAME || 'Abutu Dennis',
   RENDER_API: process.env.RENDER_API || 'rnd_FFMFERYcrBTYULjxzyCLSQAAcGHN',
   KOYEB_APP_NAME: process.env.KOYEB_APP_NAME || 'abhiLoki',
   KOYEB_API_KEY: process.env.KOYEB_API_KEY || 'rdhmh9sja4bxep5wxf7e9y7q4my251ptcqmvrwc78698lbxp0uvm9gphsl0bpabn',
